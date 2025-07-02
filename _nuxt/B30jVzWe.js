@@ -1,0 +1,1 @@
+import{x as s,z as e,y as o}from"./CdEZv9YZ.js";const a={class:"max-w-3xl mx-auto py-16 px-4 text-center"},l={__name:"publications",setup(n){return(r,t)=>(o(),s("section",a,t[0]||(t[0]=[e("h1",{class:"text-4xl font-bold mb-4"},"Publications",-1),e("p",{class:"text-lg text-gray-600 dark:text-gray-300"}," Coming soon… ",-1)])))}};export{l as default};
